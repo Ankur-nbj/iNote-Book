@@ -39,8 +39,8 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/inoteb-ook.git
-   cd inotebook
+   git clone https://github.com/your-username/iNote-Book.git
+   cd iNote-Book
    ```
 
 2. Navigate to the server directory and install dependencies:
