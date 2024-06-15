@@ -124,8 +124,8 @@ const AdvertWidget = () => {
           </Typography>
         </FlexBetween>
         <Typography color={medium} m="0.5rem 0">
-        Explore, review, and discuss the latest films. Join a vibrant community of movie enthusiasts sharing their cinematic insights.
-        </Typography>
+        
+Your ultimate social media hub. Connect with friends, share moments, and explore trending content. From stories to live streams, Snapgram has it all. Elevate your social experience with Snapgram.</Typography>
       </WidgetWrapper>
       </>
   );
