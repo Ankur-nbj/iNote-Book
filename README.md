@@ -1,5 +1,5 @@
 
-# iNotebook - Notes Taking Application
+# iNoteBook - Notes Taking Application
 
 iNotebook is a full-stack notes-taking application built using the MERN stack and styled with Material Ui. It allows users to create, read, update, and delete notes.
 
@@ -7,7 +7,7 @@ iNotebook is a full-stack notes-taking application built using the MERN stack an
 
 - CRUD (Create, Read, Update, Delete) operations for notes
 - User authentication (signup and login)
-- Responsive design using Material Ui
+- Responsive design using Material UI
 
 ## Technologies Used
 
@@ -15,12 +15,12 @@ iNotebook is a full-stack notes-taking application built using the MERN stack an
 - Express.js
 - React
 - Node.js
-- Material Ui
-- JWT (Json Web Token for authentication )
+- Material UI
+- JWT (JSON Web Token for authentication )
 
 ## Demo
 
-Check out the deployed version of iNotebook on Render: [iNotebook Demo]([https://inotebook-1rmf.onrender.com/](https://inote-book-ohjb.onrender.com))
+Check out the deployed version of iNoteBook on Render: [iNoteBook Demo]([https://inotebook-1rmf.onrender.com/](https://inote-book-ohjb.onrender.com))
 
 ## Screenshots
 <img width="941" alt="image" src="https://github.com/Ankur-nbj/iNote-Book/assets/108694248/4677e816-9dcc-46ab-9a87-7c43b5306276">
@@ -39,7 +39,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/inotebook.git
+   git clone https://github.com/your-username/inoteb-ook.git
    cd inotebook
    ```
 
