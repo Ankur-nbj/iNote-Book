@@ -87,6 +87,46 @@ const AdvertWidget = () => {
         Explore, review, and discuss the latest films. Join a vibrant community of movie enthusiasts sharing their cinematic insights.
         </Typography>
       </WidgetWrapper>
+      <br/>
+      
+    <WidgetWrapper>
+        <FlexBetween>
+          <Typography color={dark} variant="h5" fontWeight="500">
+            Sponsored
+          </Typography>
+          <Typography color={medium}>Create Ad</Typography>
+        </FlexBetween>
+        <a
+          href="https://github.com/Ankur-nbj/iNote-Book.git"
+          target="_blank"
+          rel="noopener noreferrer"
+          style={{ textDecoration: 'none', color: 'inherit' }}
+        >
+          <img
+            width="100%"
+            height="auto"
+            alt="advert"
+            src="/images/Snapgram.gif"
+            style={{ borderRadius: "0.5rem", margin: "0.75rem 0" }}
+          />
+        </a>
+        <FlexBetween>
+          <Typography color={main}>Snapgram </Typography>
+          <Typography color={medium}>
+            <a
+              href="https://github.com/Ankur-nbj/iNote-Book.git"
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ textDecoration: 'none', color: 'inherit' }}
+            >
+              snapgram.git
+            </a>
+          </Typography>
+        </FlexBetween>
+        <Typography color={medium} m="0.5rem 0">
+        Explore, review, and discuss the latest films. Join a vibrant community of movie enthusiasts sharing their cinematic insights.
+        </Typography>
+      </WidgetWrapper>
       </>
   );
 };
