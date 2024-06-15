@@ -24,9 +24,13 @@ Check out the deployed version of iNoteBook on Render: [iNoteBook Demo]([https:/
 
 ## Screenshots
 <img width="941" alt="image" src="https://github.com/Ankur-nbj/iNote-Book/assets/108694248/4677e816-9dcc-46ab-9a87-7c43b5306276">
+
 <img width="959" alt="image" src="https://github.com/Ankur-nbj/iNote-Book/assets/108694248/ad6f1889-aac9-40d4-9c04-c5385010901d">
+
 <img width="959" alt="image" src="https://github.com/Ankur-nbj/iNote-Book/assets/108694248/9eb1d9db-6889-404d-a5c8-882c778371d3">
+
 <img width="959" alt="image" src="https://github.com/Ankur-nbj/iNote-Book/assets/108694248/6a2f019d-caea-4a0f-867a-39eb02f66cef">
+
 <img width="372" alt="image" src="https://github.com/Ankur-nbj/iNote-Book/assets/108694248/c8ceb658-1553-42b6-b4bf-53c814ca1561">
 <img width="373" alt="image" src="https://github.com/Ankur-nbj/iNote-Book/assets/108694248/e03b8eee-8c79-4520-b049-1f826eda5f33">
 
