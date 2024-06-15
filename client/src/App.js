@@ -14,7 +14,7 @@ function App() {
   const mode = useSelector((state) => state.auth.mode);
   const theme = useMemo(() =>
     createTheme(themeSettings(mode)), [mode]);
-  const isAuth=localStorage.getItem('token');
+  // const isAuth=localStorage.getItem('token');
 
   return (
     <div className="app">
@@ -23,7 +23,7 @@ function App() {
           <ThemeProvider theme={theme}>
             <CssBaseline />
             <Routes>
-              <Route path="/" element={isAuth?<Home />:<Navigate to="/login"/>} />
+              <Route path="/" element={<Home />/>
               <Route path="/about" element={<About/>}/>
               <Route path="/login" element={<Login />} />
               <Route path="/signup" element={<Signup />} />
