@@ -97,7 +97,7 @@ const AdvertWidget = () => {
           <Typography color={medium}>Create Ad</Typography>
         </FlexBetween>
         <a
-          href="https://github.com/Ankur-nbj/iNote-Book.git"
+          href="https://ankur-snapgram.netlify.app/"
           target="_blank"
           rel="noopener noreferrer"
           style={{ textDecoration: 'none', color: 'inherit' }}
@@ -114,12 +114,12 @@ const AdvertWidget = () => {
           <Typography color={main}>Snapgram </Typography>
           <Typography color={medium}>
             <a
-              href="https://github.com/Ankur-nbj/iNote-Book.git"
+              href="https://ankur-snapgram.netlify.app/"
               target="_blank"
               rel="noopener noreferrer"
               style={{ textDecoration: 'none', color: 'inherit' }}
             >
-              snapgram.git
+              snapgram.com
             </a>
           </Typography>
         </FlexBetween>
