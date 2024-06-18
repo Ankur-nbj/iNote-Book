@@ -20,7 +20,7 @@ iNotebook is a full-stack notes-taking application built using the MERN stack an
 
 ## Demo
 
-Check out the deployed version of iNoteBook on Render: [iNoteBook Demo]([https://inotebook-1rmf.onrender.com/](https://inote-book-ohjb.onrender.com))
+Check out the deployed version of iNoteBook on Render: [iNoteBook Demo](https://inote-book-ohjb.onrender.com)
 
 ## Screenshots
 <img width="941" alt="image" src="https://github.com/Ankur-nbj/iNote-Book/assets/108694248/4677e816-9dcc-46ab-9a87-7c43b5306276">
